@@ -1,0 +1,15 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/joaogsmoreira/app.git
+[submodule "math"]
+	path = math
+	url = https://github.com/joaogsmoreira/math.git
+[submodule "time"]
+	path = time
+	url = https://github.com/joaogsmoreira/time.git
+[submodule "it"]
+	path = it
+	url = https://github.com/joaogsmoreira/it.git
+[submodule "ut"]
+	path = ut
+	url = https://github.com/joaogsmoreira/ut.git
