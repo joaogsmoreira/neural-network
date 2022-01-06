@@ -1,0 +1,4 @@
+bazel-bin
+bazel-neural-network
+bazel-out
+bazel-testlogs
