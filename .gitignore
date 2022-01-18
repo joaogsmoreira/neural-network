@@ -3,3 +3,5 @@ bazel-neural-network
 bazel-out
 bazel-testlogs
 .vscode
+examples
+result.mine
